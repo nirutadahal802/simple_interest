@@ -1,0 +1,20 @@
+body{
+	background: black;
+}
+.sibox{
+	height: 300px;
+	width: 300px;
+	background: white;
+	text-align: center;
+	margin-left: 300px;
+}
+.sibox h3{
+	margin-top: 8px;
+}
+.ans{
+	height: auto;
+	width: 300px;
+	background: whitesmoke;
+	color: black;
+	margin-left: 300px;
+}
